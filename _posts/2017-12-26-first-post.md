@@ -9,6 +9,6 @@ Econometrics built upon undergraduate concepts of OLS, 2SLS, IV estimation. The 
 
 Microeconomics is a course that I did not have much contact with in my undergraduate, but turned out to be a lovely course. Especially when I realized hard work pays off quite a bit. 
 
-Health Economics involved the history of public health interventions throughout the 1800s, 1900s, and into the 21st century. I presented a critical analysis on the paper [The Effect of Air Pollution on Investor Behavior: Evidence from the S&P 500](https://www.nber.org/papers/w22753). This paper fascinated me and let me questioning whether the air pollution levels in Manhattan can solely be contribued by the city itself, or whether air pollution blowing in from external cities also had an effect (TBC).
+Health Economics involved the history of public health interventions throughout the 1800s, 1900s, and into the 21st century. I presented a critical analysis on the paper [The Effect of Air Pollution on Investor Behavior: Evidence from the S&P 500](http://prezi.com/8uco_sqe8rpc/?utm_campaign=share&utm_medium=copy&rc=ex0share). This paper fascinated me and let me questioning whether the air pollution levels in Manhattan can solely be contribued by the city itself, or whether air pollution blowing in from external cities also had an effect (TBC).
 
 Risk Management & Financial Modelling was my favourite class. It not only challenged me as a lot of the topics were a review but at a deeper level, but especially with the weekly simulation and assignments. 
